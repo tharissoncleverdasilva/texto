@@ -1,0 +1,16 @@
+C:\Users\Talissom\Desktop\AloMundo\obj\Debug\net5.0\AloMundo.csproj.AssemblyReference.cache
+C:\Users\Talissom\Desktop\AloMundo\obj\Debug\net5.0\AloMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talissom\Desktop\AloMundo\obj\Debug\net5.0\AloMundo.AssemblyInfoInputs.cache
+C:\Users\Talissom\Desktop\AloMundo\obj\Debug\net5.0\AloMundo.AssemblyInfo.cs
+C:\Users\Talissom\Desktop\AloMundo\obj\Debug\net5.0\AloMundo.csproj.CoreCompileInputs.cache
+C:\Users\Talissom\Desktop\AloMundo\bin\Debug\net5.0\AloMundo.exe
+C:\Users\Talissom\Desktop\AloMundo\bin\Debug\net5.0\AloMundo.deps.json
+C:\Users\Talissom\Desktop\AloMundo\bin\Debug\net5.0\AloMundo.runtimeconfig.json
+C:\Users\Talissom\Desktop\AloMundo\bin\Debug\net5.0\AloMundo.runtimeconfig.dev.json
+C:\Users\Talissom\Desktop\AloMundo\bin\Debug\net5.0\AloMundo.dll
+C:\Users\Talissom\Desktop\AloMundo\bin\Debug\net5.0\AloMundo.pdb
+C:\Users\Talissom\Desktop\AloMundo\obj\Debug\net5.0\AloMundo.dll
+C:\Users\Talissom\Desktop\AloMundo\obj\Debug\net5.0\refint\AloMundo.dll
+C:\Users\Talissom\Desktop\AloMundo\obj\Debug\net5.0\AloMundo.pdb
+C:\Users\Talissom\Desktop\AloMundo\obj\Debug\net5.0\AloMundo.genruntimeconfig.cache
+C:\Users\Talissom\Desktop\AloMundo\obj\Debug\net5.0\ref\AloMundo.dll
